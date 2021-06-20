@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "28516702495",
+    "project_id": "androidstudiofirebase-d6e39",
+    "storage_bucket": "androidstudiofirebase-d6e39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28516702495:android:f1b83064b4976f0211f82a",
+        "android_client_info": {
+          "package_name": "com.example.gazete"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28516702495-cvfqq8sfp6ecau0tvo0f4r80cjds3a2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOIVXy7IyvNzlwYwGUYIIO77IsONTeqDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28516702495-cvfqq8sfp6ecau0tvo0f4r80cjds3a2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
